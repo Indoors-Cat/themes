@@ -1,2 +1,2 @@
 # themes
-Collection of themes I personally use
+Collection of themes I use
