@@ -1,0 +1,6 @@
+If using the KDE-Plasma desktop environment you can go into "Settings" -> "Startup and Shutdown" -> "Login Screen (SDDM)" and click "Get New Themes".
+From here you can search for and install any SDDM themes you like.
+
+If you're not using KDE-Plasma but are using SDDM you will need to create a directory at /usr/share/SDDM/themes.
+Place any SDDM themes you download into this directory.
+You will also need a config file for SDDM located preferrably at /etc/sddm.conf
